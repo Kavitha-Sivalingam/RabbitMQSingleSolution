@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GwmJ3gCsa6P3LEyisEMI9JB1kNShIdFkZ93bEhZxaRjDTK5Py/11D6AsWKWPbxZysiliAecA3VNH58s1xMV7bA==",
+  "success": true,
+  "projectFilePath": "C:\\Kavitha\\DyanskeBank\\POC\\RabbitMQSingleSolution\\RabbitMQSubscriber\\RabbitMQSubscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kavitha.sivalingam\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\kavitha.sivalingam\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\kavitha.sivalingam\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

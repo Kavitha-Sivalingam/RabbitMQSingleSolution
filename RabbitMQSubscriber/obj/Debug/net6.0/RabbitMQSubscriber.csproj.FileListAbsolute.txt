@@ -1,0 +1,17 @@
+C:\Kavitha\DyanskeBank\POC\RabbitMQ\RabbitMQSubscriber\bin\Debug\net6.0\RabbitMQSubscriber.exe
+C:\Kavitha\DyanskeBank\POC\RabbitMQ\RabbitMQSubscriber\bin\Debug\net6.0\RabbitMQSubscriber.deps.json
+C:\Kavitha\DyanskeBank\POC\RabbitMQ\RabbitMQSubscriber\bin\Debug\net6.0\RabbitMQSubscriber.runtimeconfig.json
+C:\Kavitha\DyanskeBank\POC\RabbitMQ\RabbitMQSubscriber\bin\Debug\net6.0\RabbitMQSubscriber.dll
+C:\Kavitha\DyanskeBank\POC\RabbitMQ\RabbitMQSubscriber\bin\Debug\net6.0\RabbitMQSubscriber.pdb
+C:\Kavitha\DyanskeBank\POC\RabbitMQ\RabbitMQSubscriber\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Kavitha\DyanskeBank\POC\RabbitMQ\RabbitMQSubscriber\obj\Debug\net6.0\RabbitMQSubscriber.csproj.AssemblyReference.cache
+C:\Kavitha\DyanskeBank\POC\RabbitMQ\RabbitMQSubscriber\obj\Debug\net6.0\RabbitMQSubscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kavitha\DyanskeBank\POC\RabbitMQ\RabbitMQSubscriber\obj\Debug\net6.0\RabbitMQSubscriber.AssemblyInfoInputs.cache
+C:\Kavitha\DyanskeBank\POC\RabbitMQ\RabbitMQSubscriber\obj\Debug\net6.0\RabbitMQSubscriber.AssemblyInfo.cs
+C:\Kavitha\DyanskeBank\POC\RabbitMQ\RabbitMQSubscriber\obj\Debug\net6.0\RabbitMQSubscriber.csproj.CoreCompileInputs.cache
+C:\Kavitha\DyanskeBank\POC\RabbitMQ\RabbitMQSubscriber\obj\Debug\net6.0\RabbitMQSubscriber.csproj.CopyComplete
+C:\Kavitha\DyanskeBank\POC\RabbitMQ\RabbitMQSubscriber\obj\Debug\net6.0\RabbitMQSubscriber.dll
+C:\Kavitha\DyanskeBank\POC\RabbitMQ\RabbitMQSubscriber\obj\Debug\net6.0\refint\RabbitMQSubscriber.dll
+C:\Kavitha\DyanskeBank\POC\RabbitMQ\RabbitMQSubscriber\obj\Debug\net6.0\RabbitMQSubscriber.pdb
+C:\Kavitha\DyanskeBank\POC\RabbitMQ\RabbitMQSubscriber\obj\Debug\net6.0\RabbitMQSubscriber.genruntimeconfig.cache
+C:\Kavitha\DyanskeBank\POC\RabbitMQ\RabbitMQSubscriber\obj\Debug\net6.0\ref\RabbitMQSubscriber.dll
